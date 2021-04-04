@@ -8,12 +8,12 @@ dependencies:
     - -e .  # conda >= 4.4 only
     - python-dotenv>=0.5.1
     - nbval
+    - tensorflow
     - nbdime
   - gsd
   - git
   - openmpi
   - numpy
-  - cudatoolkit
   - mpi4py
   - seaborn
   - cmake
